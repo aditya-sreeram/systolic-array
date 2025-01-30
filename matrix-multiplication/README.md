@@ -4,6 +4,8 @@
 ![image](https://github.com/user-attachments/assets/c9cceb82-9005-4161-94e4-0a50810d8bbd)
 ### RTL Schmatic
 ![image](https://github.com/user-attachments/assets/97bc9920-1273-4bc4-b6e8-f437f7e7e783)
+### Systolic Architecture
+![image](https://github.com/user-attachments/assets/851b7cbf-b78e-4d2d-a9a7-d7378e2a3992)
 ### Reference to Cycle and Signal Produced
 ![image](https://github.com/user-attachments/assets/af5a7040-9af0-4529-9e12-58640dfef0d3)
 ### Limitation of the design
